@@ -25,3 +25,4 @@ prometheus - grafana.
 #### Установка Zabbix
 Подготовка и утановка основных компанентов производится силами вагранта с помощью прилагаемого скрипта.
 Настройка "по месту" - в ручном режиме согласно мануалу с официального сайта [https://www.zabbix.com/download?zabbix=7.0&os_distribution=ubuntu&os_version=22.04&components=server_frontend_agent&db=mysql&ws=nginx]
+Коллекцию данных получал из стороннего тимплейса (приложен к ДЗ)
